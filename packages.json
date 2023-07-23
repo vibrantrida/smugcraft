@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : null,
+      "name" : "smugcraft",
+      "version" : "2023-07-23-16-27-30",
+      "location" : "smugcraft.json",
+      "priority" : 0
+    }
+  ]
+}
